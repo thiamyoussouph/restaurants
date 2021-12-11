@@ -1,0 +1,22 @@
+{
+  "name": "teste-firebase",
+  "version": "1.0.0",
+  "description": "",
+  "main": "teste.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "listen": "nodemon teste.js"
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "firebase": "^9.6.1",
+    "nodemon": "^2.0.15"
+  },
+  "devDependencies": {
+    "dotenv": "^10.0.0"
+  }
+}
